@@ -3,3 +3,6 @@ I worked on the Payment Service and learned how to handle service failures using
 
 24/08
 I worked on the Payment Service endpoint used by the Order Service. I introduced controlled delay and failure scenarios for testing fault-tolerance mechanisms and then restored the service to return successful payment responses after completing the tests.
+
+27/08
+Tested Payment Service communication and failure scenarios.
